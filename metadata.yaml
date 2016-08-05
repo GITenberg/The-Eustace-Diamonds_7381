@@ -1,0 +1,37 @@
+_repo: The-Eustace-Diamonds_7381
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: "The Eustace Diamonds is a novel by Anthony Trollope, first published\
+  \ in 1871 as a serial in the Fortnightly Review. It is the third of the \"Palliser\"\
+  \ series of novels.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7381'
+  wikidata: Q7732627
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Jewelry theft -- Fiction'
+- !lcsh 'Political fiction'
+- !lcsh 'Poor women -- Fiction'
+- !lcsh 'Satire'
+- !lcsh 'Palliser, Plantagenet (Fictitious character) -- Fiction'
+- !lcsh 'Socialites -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Courtship -- Fiction'
+- GITenberg
+title: The Eustace Diamonds
+url: http://www.gutenberg.org/ebooks/7381
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Eustace_Diamonds
