@@ -1,5 +1,8 @@
 _repo: The-Eustace-Diamonds_7381
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Trollope, Anthony
@@ -11,6 +14,8 @@ creator:
 description: "The Eustace Diamonds is a novel by Anthony Trollope, first published\
   \ in 1871 as a serial in the Fortnightly Review. It is the third of the \"Palliser\"\
   \ series of novels.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7381#The-Eustace-Diamonds
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
 identifiers:
